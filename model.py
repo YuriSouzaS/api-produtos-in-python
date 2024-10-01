@@ -7,7 +7,7 @@ key: str = os.getenv("MYDB")
 config = {
 
     'user': 'whoami',
-    'password': 'Misty1775',
+    'password': key,
     'host': 'localhost',
     'port': '3306',
     'database': 'bdapi'
