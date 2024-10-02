@@ -2,8 +2,9 @@
 Este projeto expõe uma API RESTful para gerenciar informações de produtos.
 
 ### Endpoints Disponíveis:
+URL: https://wiuhi.pythonanywhere.com/
 
-* GET /produtos:
+* GET / :
   * Descrição: Retorna uma lista de todos os produtos cadastrados.
   * Resposta: Um array de objetos, onde cada objeto representa um produto.
   * Campos:
